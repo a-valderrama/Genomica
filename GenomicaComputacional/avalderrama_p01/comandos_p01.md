@@ -28,10 +28,11 @@
 
 ### <u>Parte III</u>
 
-2. Renombramos archivos con:
+1. Renombramos archivos con:
    - `mv sequence.fasta sarscov2_genome.fasta`
    - `mv sequence.gff3 sarscov2_genome.gff3`
-3. Copiamos la secuencia de la estructura con los siguientes comandos:
+
+2. Renombramos los archivos con los siguientes comandos:
    - `mv sequence.fasta splike_c.faa`
    - `mv sequence\ \(1\).fasta splike_b.faa`
    - `mv sequence\ \(2\).fasta splike_a.faa`
