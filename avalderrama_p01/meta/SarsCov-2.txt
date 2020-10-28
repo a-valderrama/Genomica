@@ -1,0 +1,11 @@
+El Dr. Constantino nos explica la estructura molecular del Sars-Cov-2. Su estructura genómica consta de las siguientes partes: 1) poliproteína no-estructurales; 2) la proteína S (o
+ espícula), con los dominios S1 y S2; 3) proteínas estructurales, de membrana; 4) la proteína N. Aunque por la epidemiología genética/molecular, sabemos que el virus ha mutado 
+muchas veces, pero no cambia tan radicalmente. 
+
+Es un virus de RNA, de cadena sencilla positiva, de 50-200 nm que está enrollada en una Nucleocápside. Está envuelto por una Glicoproteína de membrana y tiene espículas altamente
+glicosiladas (proteína S). 
+
+Ahora, para el contagio, la proteína S del virus se une a la encima convertidora de angiotensina 2 de las células humanas. 
+
+Resumen de: https://www.youtube.com/watch?v=I0AbpnFP1g8
+
