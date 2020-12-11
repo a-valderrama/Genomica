@@ -63,11 +63,9 @@ Además, con este proyecto buscamos mostrar un poco más del mundo que gira en t
 
 ## Hipótesis
 
-A partir de incluir el reforzamiento de caminos por medio del concepto de quimiotaxis a un modelo básico de exploración (basado en movimientos brownianos
+A partir de incluir el reforzamiento de caminos por medio del concepto de quimiotaxis a un modelo básico de exploración (basado en movimientos brownianos) podremos aproximarnos al comportamiento de exploración que presenta el Slime Mould. 
 
-[El movimiento browniano es el movimiento aleatorio que se observa en las partículas que se hallan en un medio fluido]: 
-
- ) podremos aproximarnos al comportamiento de exploración que presenta el Slime Mould.
+[^El movimiento browniano es el movimiento aleatorio que se observa en las partículas que se hallan en un medio fluido]: 
 
 ## Diagrama de la metodología
 
