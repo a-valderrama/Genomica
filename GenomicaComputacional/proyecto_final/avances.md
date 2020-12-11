@@ -1,6 +1,6 @@
 # <u>Estudiando el *Slime Mould*</u>
 
-##### Integrantes:
+### Integrantes:
 
 - ***Badillo Macías Ricardo***
 - ***Valderrama Silva Alejandro***
@@ -78,3 +78,4 @@ A partir de incluir el reforzamiento de caminos por medio del concepto de quimio
 Movimiento de exploración sin incluir la atracción de alimento.
 
 ![](/home/valde/Documents/8vo Semestre/Genomica/G-Practica/GenomicaComputacional/proyecto_final/img/DLA-inverso-v1.jpeg)
+=======
