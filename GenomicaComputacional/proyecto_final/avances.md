@@ -71,11 +71,14 @@ A partir de incluir el reforzamiento de caminos por medio del concepto de quimio
 
 ## Diagrama de la metodología
 
-![](/home/valde/Documents/8vo Semestre/Genomica/G-Practica/GenomicaComputacional/proyecto_final/img/Metodologia.png)
+<p align="center">
+  <img src="https://github.com/a-valderrama/Genomica/blob/master/GenomicaComputacional/proyecto_final/img/Metodologia.png?raw=true"/>
+</p>
 
 ### Resultado del modelo hasta ahora...
 
 Movimiento de exploración sin incluir la atracción de alimento.
 
-![](/home/valde/Documents/8vo Semestre/Genomica/G-Practica/GenomicaComputacional/proyecto_final/img/DLA-inverso-v1.jpeg)
-=======
+<p align="center">
+  <img src="https://github.com/a-valderrama/Genomica/blob/master/GenomicaComputacional/proyecto_final/img/DLA-inverso-v1.jpeg?raw=true"/>
+</p>
