@@ -1,11 +1,6 @@
 # <u>Estudiando el *Slime Mold*</u>
 
-##### Integrantes:
+### Integrantes:
 
 - ***Ricardo Badillo Macías***
 - ***Alejandro Valderrama Silva***
-
-
-
-##### 
-
