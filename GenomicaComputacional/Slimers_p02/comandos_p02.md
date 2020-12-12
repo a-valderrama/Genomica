@@ -27,6 +27,16 @@
 
 # Parte 2
 
+1. `awk 'BEGIN{P=1}{if(P==1||P==2){gsub(/^[@]/,">");print}; if(P==4)P=0; P++}' ERR486827_1.fastq > ERR486827_1.fasta`
+
+   `awk 'BEGIN{P=1}{if(P==1||P==2){gsub(/^[@]/,">");print}; if(P==4)P=0; P++}' ERR486827_2.fastq > ERR486827_2.fasta`
+
+2. `less ERR486827_1.fasta | grep -o \> | wc -l` -> *398824 secuencias*
+   `less ERR486827_2.fasta | grep -o \> | wc -l` -> *398824 secuencias*
+   Por lo tanto, **tienen la misma cantidad de secuencias.**
+
+3. La función que resuelve este inciso está en la carpeta *scripts*, dentro del notebook **II-3**
+
 # Parte 3
 
 # Parte 4
